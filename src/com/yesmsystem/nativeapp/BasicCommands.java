@@ -42,7 +42,7 @@ public class BasicCommands {
 	System.out.println(driver.currentActivity());
 	
 	System.out.println(driver.isKeyboardShown());
-	driver.getKeyboard();
+	//driver.getKeyboard();
 	System.out.println(driver.isKeyboardShown());
 	if(driver.isKeyboardShown())
 	{
